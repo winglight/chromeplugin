@@ -1,0 +1,26 @@
+{
+  "ext_name": {
+    "message": "\u641c\u7d22\u52a9\u624b",
+    "description": ""
+  },
+  "ext_desc": {
+    "message": "\u5728\u6dd8\u5b9d\uff0c\u5f53\u5f53\uff0c\u4e9a\u9a6c\u900a\u4e0a\u641c\u7d22\u9009\u4e2d\u7684\u6587\u5b57\uff0c\u4ee5\u53ca\u4f7f\u7528\u6caa\u6c5f\u5c0fD\u7ffb\u8bd1\u9009\u4e2d\u6587\u5b57",
+    "description": ""
+  },
+  "search_taobao": {
+    "message": "\u5728\u6dd8\u5b9d\u4e0a\u641c\u7d22 '%s'",
+    "description": ""
+  },
+  "search_hj": {
+    "message": "\u7ffb\u8bd1 '%s'",
+    "description": ""
+  },
+  "search_dangdang": {
+    "message": "\u5728\u5f53\u5f53\u4e0a\u641c\u7d22 '%s'",
+    "description": ""
+  },
+  "search_amazon": {
+    "message": "\u5728\u4e9a\u9a6c\u900a\u4e0a\u641c\u7d22 '%s'",
+    "description": ""
+  }
+}
